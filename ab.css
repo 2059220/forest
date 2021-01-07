@@ -16,6 +16,7 @@ h1:after {
 h1{
   font-family:"Yu Gothic", "游ゴシック", YuGothic, "游ゴシック体";
 font-weight: bold;/* フォント太さ */
+  text-align: center;
 padding-top: .5em;
 padding-bottom: .5em;
 padding-left: .5em;
@@ -26,6 +27,7 @@ margin-bottom: 0.05em;
   font-size: 120%;
   font-weight: bold;
   border-bottom: solid 3px #87CEFA;
+  text-align: center;
 }
 
 .unde {
