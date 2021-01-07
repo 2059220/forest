@@ -64,8 +64,9 @@ background-position: 0 0, 0 0, 5em 5em, 5em 5em;}
 
 body {
   font-family: 'Avenir','Helvetica Neue','Helvetica','Arial','Hiragino Sans','ヒラギノ角ゴシック',YuGothic,'Yu Gothic','メイリオ', Meiryo,'ＭＳ Ｐゴシック','MS PGothic';
-	margin-right: 10%;
-	margin-left: 10%;
+	padding-right: 10%;
+	padding-left: 10%;
+	text-align: center;
 }
 
 
