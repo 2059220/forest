@@ -64,7 +64,8 @@ background-position: 0 0, 0 0, 5em 5em, 5em 5em;}
 
 body {
   font-family: 'Avenir','Helvetica Neue','Helvetica','Arial','Hiragino Sans','ヒラギノ角ゴシック',YuGothic,'Yu Gothic','メイリオ', Meiryo,'ＭＳ Ｐゴシック','MS PGothic';
-    text-align: center;/*←この指定がない場合は必ず入れましょう*/
+    text-align: justify;
+   text-justify: inter-ideograph;
 }
 #container {
 	height: 100%;
