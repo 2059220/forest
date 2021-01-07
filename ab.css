@@ -25,7 +25,6 @@ margin-bottom: 0.05em;
 .under {
   font-size: 120%;
   font-weight: bold;
-  text-align: center;
   border-bottom: solid 3px #87CEFA;
 }
 
@@ -48,9 +47,4 @@ footer {
 .pic_frame {
       display: inline-block;
       text-align: center;
-}
-
-.an{
-  text-align: justify;
-  text-justify: inter-ideograph;
 }
