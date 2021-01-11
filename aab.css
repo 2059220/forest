@@ -6,7 +6,7 @@ nav{
     overflow: hidden;   /*おまじない*/
 }
 nav ul{
-    width: 10%; /*横幅の指定*/
+    width: 150%; /*横幅の指定*/
     margin-left: 20%;   /*左端から20%右側に動かす*/
 }
 nav li{
@@ -22,7 +22,7 @@ nav a{
     display: block; /*1つのli全体にリンクを有効にする*/
     text-decoration: none;  /*ブラウザ標準のリンク装飾をオフに*/
     color:#313131;  /*文字色の変更*/
-    font-size: 80%;    /*フォントサイズの指定*/
+    font-size: 90%;    /*フォントサイズの指定*/
     letter-spacing: 5px;    /*文字と文字の間隔をあける*/
     font-weight: 400;   /*文字の太さを調整*/
     line-height: 45px;  /*行間の指定（ナビボタンの高さ指定）*/
