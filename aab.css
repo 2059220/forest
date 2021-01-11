@@ -7,7 +7,7 @@ nav{
 }
 nav ul{
     width: 70%; /*横幅の指定*/
-    margin-left: 20%;   /*左端から20%右側に動かす*/
+    margin-left: 10%;   /*左端から20%右側に動かす*/
 }
 nav li{
     width: calc(25% - 2px); /*横幅の指定（線の分をマイナスする）*/
