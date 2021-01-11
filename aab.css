@@ -6,7 +6,7 @@ nav{
     overflow: hidden;   /*おまじない*/
 }
 nav ul{
-    width: 60%; /*横幅の指定*/
+    width: 80%; /*横幅の指定*/
     margin-left: 20%;   /*左端から20%右側に動かす*/
 }
 nav li{
